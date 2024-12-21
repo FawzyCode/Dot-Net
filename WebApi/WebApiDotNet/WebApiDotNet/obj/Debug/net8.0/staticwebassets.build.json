@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "yKnBXBdW5qAGGdusPbtuznQdjBuJmwOIbCr5MaMOBJs=",
+  "Source": "WebApiDotNet",
+  "BasePath": "_content/WebApiDotNet",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

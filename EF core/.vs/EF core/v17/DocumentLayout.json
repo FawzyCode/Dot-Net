@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\web course\\Codes\\EF core\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E14AEDB-993C-4624-B596-3C7EB06439D9}|EF core\\EFCore.csproj|d:\\web course\\codes\\ef core\\ef core\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E14AEDB-993C-4624-B596-3C7EB06439D9}|EF core\\EFCore.csproj|solutionrelative:ef core\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E14AEDB-993C-4624-B596-3C7EB06439D9}|EF core\\EFCore.csproj|d:\\web course\\codes\\ef core\\ef core\\models\\studentbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E14AEDB-993C-4624-B596-3C7EB06439D9}|EF core\\EFCore.csproj|solutionrelative:ef core\\models\\studentbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E14AEDB-993C-4624-B596-3C7EB06439D9}|EF core\\EFCore.csproj|d:\\web course\\codes\\ef core\\ef core\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E14AEDB-993C-4624-B596-3C7EB06439D9}|EF core\\EFCore.csproj|solutionrelative:ef core\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E14AEDB-993C-4624-B596-3C7EB06439D9}|EF core\\EFCore.csproj|d:\\web course\\codes\\ef core\\ef core\\efcore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{0E14AEDB-993C-4624-B596-3C7EB06439D9}|EF core\\EFCore.csproj|solutionrelative:ef core\\efcore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E14AEDB-993C-4624-B596-3C7EB06439D9}|EF core\\EFCore.csproj|d:\\web course\\codes\\ef core\\ef core\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E14AEDB-993C-4624-B596-3C7EB06439D9}|EF core\\EFCore.csproj|solutionrelative:ef core\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 269,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 131,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EFCore",
+              "DocumentMoniker": "D:\\web course\\Codes\\EF core\\EF core\\EFCore.csproj",
+              "RelativeDocumentMoniker": "EF core\\EFCore.csproj",
+              "ToolTip": "D:\\web course\\Codes\\EF core\\EF core\\EFCore.csproj",
+              "RelativeToolTip": "EF core\\EFCore.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-25T21:23:13.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\web course\\Codes\\EF core\\EF core\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "EF core\\Models\\Book.cs",
+              "ToolTip": "D:\\web course\\Codes\\EF core\\EF core\\Models\\Book.cs",
+              "RelativeToolTip": "EF core\\Models\\Book.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAswAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T13:10:56.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentBook.cs",
+              "DocumentMoniker": "D:\\web course\\Codes\\EF core\\EF core\\Models\\StudentBook.cs",
+              "RelativeDocumentMoniker": "EF core\\Models\\StudentBook.cs",
+              "ToolTip": "D:\\web course\\Codes\\EF core\\EF core\\Models\\StudentBook.cs",
+              "RelativeToolTip": "EF core\\Models\\StudentBook.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T12:30:39.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\web course\\Codes\\EF core\\EF core\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "EF core\\Models\\Student.cs",
+              "ToolTip": "D:\\web course\\Codes\\EF core\\EF core\\Models\\Student.cs",
+              "RelativeToolTip": "EF core\\Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T22:44:24.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\web course\\Codes\\EF core\\EF core\\Program.cs",
+              "RelativeDocumentMoniker": "EF core\\Program.cs",
+              "ToolTip": "D:\\web course\\Codes\\EF core\\EF core\\Program.cs",
+              "RelativeToolTip": "EF core\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAH0AAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T14:49:34.717Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

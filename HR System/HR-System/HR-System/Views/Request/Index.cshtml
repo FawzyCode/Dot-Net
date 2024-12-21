@@ -1,0 +1,71 @@
+﻿@model IEnumerable<HR_System.Models.Request>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Add" class="btn btn-primary">Create</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Description)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Status)
+            </th>
+            @if (User.IsInRole("HR"))
+            {
+                <th>
+                    @Html.DisplayNameFor(model => model.AppUser)
+                </th>
+            }
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Description)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Status)
+                </td>
+                @if (User.IsInRole("HR"))
+                {
+                    <td>
+                        @Html.DisplayFor(modelItem => item.AppUser.FirstName)
+                    </td>
+                }
+                <td>
+                    @if (User.IsInRole("HR"))
+                    {
+                        <button type="button" onclick="changeStatus(@item.Id,2)" class="btn btn-success">Approve</button>
+                        <button type="button" onclick="changeStatus(@item.Id,3)" class="btn btn-danger">Reject</button>
+                    }
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<script>
+    function changeStatus(id, status) {
+        fetch(`/Request/ChangeStatus?id=${id}&status=${status}`, {
+            method: 'PUT'
+        })
+            .then(response => response.json())
+            .then(data => {
+                // console.log(data);
+                location.reload();
+                // Add success handling here
+            })
+            .catch(error => console.error('Error:', error));
+    }
+</script>

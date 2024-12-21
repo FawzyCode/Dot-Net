@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "C0SZ+aYDx9n53BCT1GRPm5cCPYtkC/uhgIJFaQKvl3k=",
+  "Source": "WebApiDotNet",
+  "BasePath": "_content/WebApiDotNet",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebApiDotNet\\wwwroot",
+      "Source": "WebApiDotNet",
+      "ContentRoot": "D:\\web course\\Codes\\WebApiDotNet\\WebApiDotNet\\wwwroot\\",
+      "BasePath": "_content/WebApiDotNet",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\web course\\Codes\\WebApiDotNet\\WebApiDotNet\\wwwroot\\page1.html",
+      "SourceId": "WebApiDotNet",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\web course\\Codes\\WebApiDotNet\\WebApiDotNet\\wwwroot\\",
+      "BasePath": "_content/WebApiDotNet",
+      "RelativePath": "page1.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\page1.html"
+    }
+  ]
+}

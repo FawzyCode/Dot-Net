@@ -1,0 +1,14 @@
+D:\web course\Codes\C Sharp Fundamentals\Extension Method\bin\Debug\net8.0\Extension Method.exe
+D:\web course\Codes\C Sharp Fundamentals\Extension Method\bin\Debug\net8.0\Extension Method.deps.json
+D:\web course\Codes\C Sharp Fundamentals\Extension Method\bin\Debug\net8.0\Extension Method.runtimeconfig.json
+D:\web course\Codes\C Sharp Fundamentals\Extension Method\bin\Debug\net8.0\Extension Method.dll
+D:\web course\Codes\C Sharp Fundamentals\Extension Method\bin\Debug\net8.0\Extension Method.pdb
+D:\web course\Codes\C Sharp Fundamentals\Extension Method\obj\Debug\net8.0\Extension Method.GeneratedMSBuildEditorConfig.editorconfig
+D:\web course\Codes\C Sharp Fundamentals\Extension Method\obj\Debug\net8.0\Extension Method.AssemblyInfoInputs.cache
+D:\web course\Codes\C Sharp Fundamentals\Extension Method\obj\Debug\net8.0\Extension Method.AssemblyInfo.cs
+D:\web course\Codes\C Sharp Fundamentals\Extension Method\obj\Debug\net8.0\Extension Method.csproj.CoreCompileInputs.cache
+D:\web course\Codes\C Sharp Fundamentals\Extension Method\obj\Debug\net8.0\Extension Method.dll
+D:\web course\Codes\C Sharp Fundamentals\Extension Method\obj\Debug\net8.0\refint\Extension Method.dll
+D:\web course\Codes\C Sharp Fundamentals\Extension Method\obj\Debug\net8.0\Extension Method.pdb
+D:\web course\Codes\C Sharp Fundamentals\Extension Method\obj\Debug\net8.0\Extension Method.genruntimeconfig.cache
+D:\web course\Codes\C Sharp Fundamentals\Extension Method\obj\Debug\net8.0\ref\Extension Method.dll

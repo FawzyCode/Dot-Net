@@ -1,0 +1,11 @@
+D:\web course\Codes\C Sharp Fundamentals\C sharp fundamentals.core\bin\Debug\net8.0\C sharp fundamentals.core.deps.json
+D:\web course\Codes\C Sharp Fundamentals\C sharp fundamentals.core\bin\Debug\net8.0\C sharp fundamentals.core.dll
+D:\web course\Codes\C Sharp Fundamentals\C sharp fundamentals.core\bin\Debug\net8.0\C sharp fundamentals.core.pdb
+D:\web course\Codes\C Sharp Fundamentals\C sharp fundamentals.core\obj\Debug\net8.0\C sharp fundamentals.core.GeneratedMSBuildEditorConfig.editorconfig
+D:\web course\Codes\C Sharp Fundamentals\C sharp fundamentals.core\obj\Debug\net8.0\C sharp fundamentals.core.AssemblyInfoInputs.cache
+D:\web course\Codes\C Sharp Fundamentals\C sharp fundamentals.core\obj\Debug\net8.0\C sharp fundamentals.core.AssemblyInfo.cs
+D:\web course\Codes\C Sharp Fundamentals\C sharp fundamentals.core\obj\Debug\net8.0\C sharp fundamentals.core.csproj.CoreCompileInputs.cache
+D:\web course\Codes\C Sharp Fundamentals\C sharp fundamentals.core\obj\Debug\net8.0\C sharp fundamentals.core.dll
+D:\web course\Codes\C Sharp Fundamentals\C sharp fundamentals.core\obj\Debug\net8.0\refint\C sharp fundamentals.core.dll
+D:\web course\Codes\C Sharp Fundamentals\C sharp fundamentals.core\obj\Debug\net8.0\C sharp fundamentals.core.pdb
+D:\web course\Codes\C Sharp Fundamentals\C sharp fundamentals.core\obj\Debug\net8.0\ref\C sharp fundamentals.core.dll

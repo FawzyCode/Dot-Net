@@ -1,0 +1,33 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CsharpFundamentals. ConsleApp/1.0.0": {
+        "runtime": {
+          "CsharpFundamentals. ConsleApp.dll": {}
+        }
+      },
+      "C sharp fundamentals.core/1.0.0": {
+        "runtime": {
+          "C sharp fundamentals.core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CsharpFundamentals. ConsleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "C sharp fundamentals.core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

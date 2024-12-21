@@ -1,0 +1,48 @@
+﻿
+@model Category
+
+@{
+	ViewBag.PageTitle = "Category Managment";
+	ViewBag.CardTitle = "Create Category";
+	Layout = "~/Views/Shared/_Dashboard.cshtml";
+}
+<script src="https://cdn.tiny.cloud/1/rddml8u2m3r8nvhyviv3ug6ok3xed17o94byssyf9t3qdxpp/tinymce/6/tinymce.min.js" referrerpolicy="origin"></script>
+<div class="row">
+	<div class="col-md-4">
+		<form asp-action="Create" method="post">
+			<div class="form-group">
+				<label asp-for="Name"></label>
+				<input asp-for="Name" class="form-control" />
+				<span asp-validation-for="Name" class="text-danger"></span>
+
+			</div>
+
+			<div class="form-group">
+				<label asp-for="Description"></label>
+				<textarea id="mytextarea" asp-for="Description" class="form-control"></textarea>
+				<span asp-validation-for="Description" class="text-danger"></span>
+			</div>
+
+			<div class="form-group">
+
+				<button type="submit" class="btn btn-primary">Create</button>
+				<a asp-action="Index" asp-controller="Category" class="btn btn-warning">Back To List</a>
+
+			</div>
+
+
+		</form>
+	</div>
+</div>
+
+@section Scripts {
+	<partial name="_ValidationScriptsPartial" />
+	<script>
+		tinymce.init({
+		  selector: '#mytextarea'
+		});
+	</script>
+	
+	
+
+}

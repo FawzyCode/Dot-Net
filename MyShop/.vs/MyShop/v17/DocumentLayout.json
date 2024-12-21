@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\web\\E-Commerce\\MyShop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{063BF4F0-00CA-4347-A79C-BB00CA017C18}|MyShop.Web\\MyShop.Web.csproj|d:\\web\\e-commerce\\myshop\\myshop.web\\areas\\customer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{063BF4F0-00CA-4347-A79C-BB00CA017C18}|MyShop.Web\\MyShop.Web.csproj|solutionrelative:myshop.web\\areas\\customer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{063BF4F0-00CA-4347-A79C-BB00CA017C18}|MyShop.Web\\MyShop.Web.csproj|d:\\web\\e-commerce\\myshop\\myshop.web\\areas\\identity\\pages\\account\\manage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{063BF4F0-00CA-4347-A79C-BB00CA017C18}|MyShop.Web\\MyShop.Web.csproj|solutionrelative:myshop.web\\areas\\identity\\pages\\account\\manage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{063BF4F0-00CA-4347-A79C-BB00CA017C18}|MyShop.Web\\MyShop.Web.csproj|d:\\web\\e-commerce\\myshop\\myshop.web\\areas\\identity\\pages\\account\\manage\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{063BF4F0-00CA-4347-A79C-BB00CA017C18}|MyShop.Web\\MyShop.Web.csproj|solutionrelative:myshop.web\\areas\\identity\\pages\\account\\manage\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{063BF4F0-00CA-4347-A79C-BB00CA017C18}|MyShop.Web\\MyShop.Web.csproj|d:\\web\\e-commerce\\myshop\\myshop.web\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{063BF4F0-00CA-4347-A79C-BB00CA017C18}|MyShop.Web\\MyShop.Web.csproj|solutionrelative:myshop.web\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{063BF4F0-00CA-4347-A79C-BB00CA017C18}|MyShop.Web\\MyShop.Web.csproj|d:\\web\\e-commerce\\myshop\\myshop.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{063BF4F0-00CA-4347-A79C-BB00CA017C18}|MyShop.Web\\MyShop.Web.csproj|solutionrelative:myshop.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\web\\E-Commerce\\MyShop\\MyShop.Web\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MyShop.Web\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\web\\E-Commerce\\MyShop\\MyShop.Web\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MyShop.Web\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T12:10:13.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\web\\E-Commerce\\MyShop\\MyShop.Web\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
+              "RelativeDocumentMoniker": "MyShop.Web\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
+              "ToolTip": "D:\\web\\E-Commerce\\MyShop\\MyShop.Web\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
+              "RelativeToolTip": "MyShop.Web\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-19T14:19:44.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\web\\E-Commerce\\MyShop\\MyShop.Web\\Areas\\Identity\\Pages\\Account\\Manage\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MyShop.Web\\Areas\\Identity\\Pages\\Account\\Manage\\_Layout.cshtml",
+              "ToolTip": "D:\\web\\E-Commerce\\MyShop\\MyShop.Web\\Areas\\Identity\\Pages\\Account\\Manage\\_Layout.cshtml",
+              "RelativeToolTip": "MyShop.Web\\Areas\\Identity\\Pages\\Account\\Manage\\_Layout.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-19T14:03:08.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\web\\E-Commerce\\MyShop\\MyShop.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MyShop.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\web\\E-Commerce\\MyShop\\MyShop.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MyShop.Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-19T14:02:32.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Logout.cshtml",
+              "DocumentMoniker": "D:\\web\\E-Commerce\\MyShop\\MyShop.Web\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "RelativeDocumentMoniker": "MyShop.Web\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "ToolTip": "D:\\web\\E-Commerce\\MyShop\\MyShop.Web\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "RelativeToolTip": "MyShop.Web\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-19T14:01:24.818Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

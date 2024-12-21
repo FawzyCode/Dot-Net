@@ -1,0 +1,12 @@
+D:\web\E-Commerce\MyShop\MyShop.Utilities\bin\Debug\net9.0\MyShop.Utilities.deps.json
+D:\web\E-Commerce\MyShop\MyShop.Utilities\bin\Debug\net9.0\MyShop.Utilities.dll
+D:\web\E-Commerce\MyShop\MyShop.Utilities\bin\Debug\net9.0\MyShop.Utilities.pdb
+D:\web\E-Commerce\MyShop\MyShop.Utilities\obj\Debug\net9.0\MyShop.Utilities.csproj.AssemblyReference.cache
+D:\web\E-Commerce\MyShop\MyShop.Utilities\obj\Debug\net9.0\MyShop.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+D:\web\E-Commerce\MyShop\MyShop.Utilities\obj\Debug\net9.0\MyShop.Utilities.AssemblyInfoInputs.cache
+D:\web\E-Commerce\MyShop\MyShop.Utilities\obj\Debug\net9.0\MyShop.Utilities.AssemblyInfo.cs
+D:\web\E-Commerce\MyShop\MyShop.Utilities\obj\Debug\net9.0\MyShop.Utilities.csproj.CoreCompileInputs.cache
+D:\web\E-Commerce\MyShop\MyShop.Utilities\obj\Debug\net9.0\MyShop.Utilities.dll
+D:\web\E-Commerce\MyShop\MyShop.Utilities\obj\Debug\net9.0\refint\MyShop.Utilities.dll
+D:\web\E-Commerce\MyShop\MyShop.Utilities\obj\Debug\net9.0\MyShop.Utilities.pdb
+D:\web\E-Commerce\MyShop\MyShop.Utilities\obj\Debug\net9.0\ref\MyShop.Utilities.dll

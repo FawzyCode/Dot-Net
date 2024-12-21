@@ -1,0 +1,14 @@
+D:\web course\Codes\C Sharp Fundamentals\OOP Training\bin\Debug\net8.0\OOP Training.exe
+D:\web course\Codes\C Sharp Fundamentals\OOP Training\bin\Debug\net8.0\OOP Training.deps.json
+D:\web course\Codes\C Sharp Fundamentals\OOP Training\bin\Debug\net8.0\OOP Training.runtimeconfig.json
+D:\web course\Codes\C Sharp Fundamentals\OOP Training\bin\Debug\net8.0\OOP Training.dll
+D:\web course\Codes\C Sharp Fundamentals\OOP Training\bin\Debug\net8.0\OOP Training.pdb
+D:\web course\Codes\C Sharp Fundamentals\OOP Training\obj\Debug\net8.0\OOP Training.GeneratedMSBuildEditorConfig.editorconfig
+D:\web course\Codes\C Sharp Fundamentals\OOP Training\obj\Debug\net8.0\OOP Training.AssemblyInfoInputs.cache
+D:\web course\Codes\C Sharp Fundamentals\OOP Training\obj\Debug\net8.0\OOP Training.AssemblyInfo.cs
+D:\web course\Codes\C Sharp Fundamentals\OOP Training\obj\Debug\net8.0\OOP Training.csproj.CoreCompileInputs.cache
+D:\web course\Codes\C Sharp Fundamentals\OOP Training\obj\Debug\net8.0\OOP Training.dll
+D:\web course\Codes\C Sharp Fundamentals\OOP Training\obj\Debug\net8.0\refint\OOP Training.dll
+D:\web course\Codes\C Sharp Fundamentals\OOP Training\obj\Debug\net8.0\OOP Training.pdb
+D:\web course\Codes\C Sharp Fundamentals\OOP Training\obj\Debug\net8.0\OOP Training.genruntimeconfig.cache
+D:\web course\Codes\C Sharp Fundamentals\OOP Training\obj\Debug\net8.0\ref\OOP Training.dll

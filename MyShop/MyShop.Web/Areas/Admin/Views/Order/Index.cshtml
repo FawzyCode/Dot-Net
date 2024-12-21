@@ -1,0 +1,39 @@
+﻿@{
+    ViewBag.PageTitle = "Orders Management";
+    ViewBag.CardTitle = "View Orders";
+    Layout = "~/Views/Shared/_Dashboard.cshtml";
+
+}
+<style>
+    table#mytable td {
+        text-align: left; /* يجعل النص في كل الخلايا يصطف لليسار */
+        vertical-align: middle; /* يضبط النص في منتصف الخلية */
+    }
+
+    table#mytable th {
+        text-align: left; /* يجعل النص في عناوين الأعمدة يصطف لليسار */
+    }
+
+</style>
+@* <div>
+    <a class="btn btn-primary" href="/Admin/Product/Create">Create</a>
+</div> *@
+
+<br />
+<table id="mytable" class="table table-hover" width="100%">
+    <thead class="text-bold">
+        <tr>
+            <td>Id</td>
+            <td>Name</td>
+            <td>PhoneNumber</td>
+            <td>Email</td>
+            <td>OrderStatus</td>
+            <td>Actions</td>
+            <td>Total</td>
+        </tr>
+    </thead>
+</table>
+
+@section Scripts {
+    <script src="~/js/order.js"></script>
+}

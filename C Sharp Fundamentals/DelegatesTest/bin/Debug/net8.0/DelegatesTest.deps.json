@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DelegatesTest/1.0.0": {
+        "runtime": {
+          "DelegatesTest.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DelegatesTest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

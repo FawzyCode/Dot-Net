@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\web course\\Codes\\WebApiDotNet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F431F3B-9170-40BF-8460-888A32E206D3}|WebApiDotNet\\WebApiDotNet.csproj|d:\\web course\\codes\\webapidotnet\\webapidotnet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F431F3B-9170-40BF-8460-888A32E206D3}|WebApiDotNet\\WebApiDotNet.csproj|solutionrelative:webapidotnet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F431F3B-9170-40BF-8460-888A32E206D3}|WebApiDotNet\\WebApiDotNet.csproj|d:\\web course\\codes\\webapidotnet\\webapidotnet\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F431F3B-9170-40BF-8460-888A32E206D3}|WebApiDotNet\\WebApiDotNet.csproj|solutionrelative:webapidotnet\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F431F3B-9170-40BF-8460-888A32E206D3}|WebApiDotNet\\WebApiDotNet.csproj|d:\\web course\\codes\\webapidotnet\\webapidotnet\\dto\\generalresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F431F3B-9170-40BF-8460-888A32E206D3}|WebApiDotNet\\WebApiDotNet.csproj|solutionrelative:webapidotnet\\dto\\generalresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F431F3B-9170-40BF-8460-888A32E206D3}|WebApiDotNet\\WebApiDotNet.csproj|d:\\web course\\codes\\webapidotnet\\webapidotnet\\controllers\\bindingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F431F3B-9170-40BF-8460-888A32E206D3}|WebApiDotNet\\WebApiDotNet.csproj|solutionrelative:webapidotnet\\controllers\\bindingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 269,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\web course\\Codes\\WebApiDotNet\\WebApiDotNet\\Program.cs",
+              "RelativeDocumentMoniker": "WebApiDotNet\\Program.cs",
+              "ToolTip": "D:\\web course\\Codes\\WebApiDotNet\\WebApiDotNet\\Program.cs",
+              "RelativeToolTip": "WebApiDotNet\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T12:52:46.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\web course\\Codes\\WebApiDotNet\\WebApiDotNet\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "WebApiDotNet\\Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\web course\\Codes\\WebApiDotNet\\WebApiDotNet\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "WebApiDotNet\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAmwB8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T12:39:24.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GeneralResponse.cs",
+              "DocumentMoniker": "D:\\web course\\Codes\\WebApiDotNet\\WebApiDotNet\\DTO\\GeneralResponse.cs",
+              "RelativeDocumentMoniker": "WebApiDotNet\\DTO\\GeneralResponse.cs",
+              "ToolTip": "D:\\web course\\Codes\\WebApiDotNet\\WebApiDotNet\\DTO\\GeneralResponse.cs",
+              "RelativeToolTip": "WebApiDotNet\\DTO\\GeneralResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T12:37:27.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BindingController.cs",
+              "DocumentMoniker": "D:\\web course\\Codes\\WebApiDotNet\\WebApiDotNet\\Controllers\\BindingController.cs",
+              "RelativeDocumentMoniker": "WebApiDotNet\\Controllers\\BindingController.cs",
+              "ToolTip": "D:\\web course\\Codes\\WebApiDotNet\\WebApiDotNet\\Controllers\\BindingController.cs",
+              "RelativeToolTip": "WebApiDotNet\\Controllers\\BindingController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T18:32:35.796Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

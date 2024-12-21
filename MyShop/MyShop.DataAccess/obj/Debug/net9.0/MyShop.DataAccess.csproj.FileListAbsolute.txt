@@ -1,0 +1,17 @@
+D:\web\E-Commerce\MyShop\MyShop.DataAccess\obj\Debug\net9.0\MyShop.DataAccess.csproj.AssemblyReference.cache
+D:\web\E-Commerce\MyShop\MyShop.DataAccess\obj\Debug\net9.0\MyShop.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\web\E-Commerce\MyShop\MyShop.DataAccess\obj\Debug\net9.0\MyShop.DataAccess.AssemblyInfoInputs.cache
+D:\web\E-Commerce\MyShop\MyShop.DataAccess\obj\Debug\net9.0\MyShop.DataAccess.AssemblyInfo.cs
+D:\web\E-Commerce\MyShop\MyShop.DataAccess\obj\Debug\net9.0\MyShop.DataAccess.csproj.CoreCompileInputs.cache
+D:\web\E-Commerce\MyShop\MyShop.DataAccess\bin\Debug\net9.0\MyShop.DataAccess.deps.json
+D:\web\E-Commerce\MyShop\MyShop.DataAccess\bin\Debug\net9.0\MyShop.DataAccess.runtimeconfig.json
+D:\web\E-Commerce\MyShop\MyShop.DataAccess\bin\Debug\net9.0\MyShop.DataAccess.dll
+D:\web\E-Commerce\MyShop\MyShop.DataAccess\bin\Debug\net9.0\MyShop.DataAccess.pdb
+D:\web\E-Commerce\MyShop\MyShop.DataAccess\bin\Debug\net9.0\MyShop.Entities.dll
+D:\web\E-Commerce\MyShop\MyShop.DataAccess\bin\Debug\net9.0\MyShop.Entities.pdb
+D:\web\E-Commerce\MyShop\MyShop.DataAccess\obj\Debug\net9.0\MyShop.D.2D72841A.Up2Date
+D:\web\E-Commerce\MyShop\MyShop.DataAccess\obj\Debug\net9.0\MyShop.DataAccess.dll
+D:\web\E-Commerce\MyShop\MyShop.DataAccess\obj\Debug\net9.0\refint\MyShop.DataAccess.dll
+D:\web\E-Commerce\MyShop\MyShop.DataAccess\obj\Debug\net9.0\MyShop.DataAccess.pdb
+D:\web\E-Commerce\MyShop\MyShop.DataAccess\obj\Debug\net9.0\MyShop.DataAccess.genruntimeconfig.cache
+D:\web\E-Commerce\MyShop\MyShop.DataAccess\obj\Debug\net9.0\ref\MyShop.DataAccess.dll

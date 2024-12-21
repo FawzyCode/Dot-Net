@@ -1,0 +1,62 @@
+﻿@model EmpWithDeptListViewModel
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+<form method="post" action="/Employee/SaveEdit/@Model.Id"  >
+    <div>
+        <label>Name</label>
+        <input type="text" name="Name" id="Name" value="@Model.Name" class="form form-control" />
+        
+    </div>
+
+    <div>
+        <label>Adress</label>
+        <input type="text" name="Adress" id="Adress" value="@Model.Adress" class="form form-control" />
+    </div>
+
+    <div>
+        <label>ImageURL</label>
+        <input type="text" name="ImageURL" id="ImageURL" value="@Model.ImageURL" class="form form-control" />
+    </div>
+
+    <div>
+        <label>Salary</label>
+        <input type="text" name="Salary" id="Salary" value="@Model.Salary" class="form form-control" />
+    </div>
+
+    <div>
+        <label>jobTittle</label>
+        <input type="text" name="jobTittle" id="jobTittle" value="@Model.jobTittle" class="form form-control" />
+    </div>
+
+    <div>
+        <label>DepartmentId</label>
+        <select name="DepartmentId" id="DepartmentId" class="form form-control">
+            @foreach(var DeptItem in Model.DeptList)
+            {
+                if(Model.DepartmentId == DeptItem.Id)
+                {
+                    //@DeptItem.Id ==> (save the value of drop of list)
+                    //@DeptItem.Name ==> (show names(sd,iot,.net,etc...) of department Instead of id)
+                    <option value=@DeptItem.Id selected>@DeptItem.Name</option>
+                }
+                else
+                {
+                     <option value=@DeptItem.Id >@DeptItem.Name</option>
+                }
+
+            }
+
+      
+        </select>
+        <!-- <input type="text" name="DepartmentId" id="DepartmentId" value="@Model.DepartmentId" class="form form-control" />
+            -->
+
+    </div>
+ 
+    <input type="submit" value="Save" class="btn btn-success"/>
+</form>
+
+
